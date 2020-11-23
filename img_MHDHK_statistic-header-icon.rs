@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_MHDHK_statistic-header-icon</name>
+   <tag></tag>
+   <elementGuidId>34cc382a-1710-4092-8c94-1e4aad6116d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.statistic-header-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/assets/icon-total-customer.svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/icon-total-customer.svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>statistic-header-icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-screen[1]/div[1]/app-delivery-top-customer[1]/div[@class=&quot;dashboard-page-background&quot;]/div[@class=&quot;dashboard-container&quot;]/div[@class=&quot;dashboard-content&quot;]/div[@class=&quot;statistic-container&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator statistic-card&quot;]/div[@class=&quot;statistic-header&quot;]/img[@class=&quot;statistic-header-icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+   </webElementXpaths>
+</WebElementEntity>

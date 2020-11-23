@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>8b0853e8-3c92-4673-a9da-795ff22ccf1c</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;chartdiv&quot;)/div[1]/svg[1]/g[1]/g[2]/g[1]/g[2]/g[1]/g[2]/g[1]/g[1]/g[1]/g[1]/g[3]/g[1]/g[1]/path[1][count(. | //path[@d = 'M0,99.8166234286291L655.0000000000146,99.8166234286291L655.0000000000146,579.1833765713745L655.0000000000146,579.1833765713745L0,579.1833765713745Z']) = count(//path[@d = 'M0,99.8166234286291L655.0000000000146,99.8166234286291L655.0000000000146,579.1833765713745L655.0000000000146,579.1833765713745L0,579.1833765713745Z'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M0,99.8166234286291L655.0000000000146,99.8166234286291L655.0000000000146,579.1833765713745L655.0000000000146,579.1833765713745L0,579.1833765713745Z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chartdiv&quot;)/div[1]/svg[1]/g[1]/g[2]/g[1]/g[2]/g[1]/g[2]/g[1]/g[1]/g[1]/g[1]/g[3]/g[1]/g[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
