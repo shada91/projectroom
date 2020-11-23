@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TDZ verify the image and the component present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6219d18-45c9-417c-aaf1-7cd74f64767f</testCaseGuid>
+</TestCaseEntity>

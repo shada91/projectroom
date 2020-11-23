@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT verify the screen resolutions with default zoom setting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>361c50d4-9440-480f-9850-32c6e86ee3bc</testCaseGuid>
+</TestCaseEntity>

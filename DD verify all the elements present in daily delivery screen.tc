@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DD verify all the elements present in daily delivery screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fff28de2-d522-41d2-a258-ebf80cd3ceec</testCaseGuid>
+</TestCaseEntity>

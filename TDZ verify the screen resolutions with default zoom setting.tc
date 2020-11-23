@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TDZ verify the screen resolutions with default zoom setting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7908bf31-7313-47f0-8ded-8cc6eaa344a6</testCaseGuid>
+</TestCaseEntity>

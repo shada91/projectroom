@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DR Verify that the size, position, width, height of the elements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f939399-cbce-43a0-840a-b56da8877b1d</testCaseGuid>
+</TestCaseEntity>

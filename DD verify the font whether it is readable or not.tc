@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DD verify the font whether it is readable or not</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b38ba3b6-35f5-4716-ba4c-2106ab45fe2d</testCaseGuid>
+   <variable>
+      <defaultValue>'dashboard-title'</defaultValue>
+      <description></description>
+      <id>e36c9fed-4f21-470a-bd9c-709d81d7cc0d</id>
+      <masked>false</masked>
+      <name>dbtitle</name>
+   </variable>
+</TestCaseEntity>

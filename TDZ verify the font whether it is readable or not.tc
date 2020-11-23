@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TDZ verify the font whether it is readable or not</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>524a2a4e-e0fa-423d-b8eb-4d390a31da39</testCaseGuid>
+</TestCaseEntity>

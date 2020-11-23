@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DR verify the screen resolutions with default zoom setting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c858a730-daef-4891-a6da-5d7be477740d</testCaseGuid>
+</TestCaseEntity>

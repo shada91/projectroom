@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC verify the bars alignment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3503650-0cbc-4d9f-8a6a-32c06fadfd6f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da24efc9-b4b5-4fcd-8df7-915495b58148</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
